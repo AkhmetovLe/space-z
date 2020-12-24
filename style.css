@@ -112,7 +112,7 @@ input {
   margin-left: auto;
   width: 19px;
   height: 16px;
-  background-image: url("/img/right-arrow-dark.png");
+  background-image: url("img/right-arrow-dark.png");
 }
 
 .get-tour {
